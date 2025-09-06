@@ -1,6 +1,6 @@
 # Hi there, I'm Nauman! 👋
 
-🚀 A full-stack software developer with a proven ability to transform abstract ideas 💡 into fully functional web applications. With over 4️⃣ years of experience in web development and a strong background in problem-solving competitions, I bring a valuable mix of technical expertise and innovative thinking to every project.
+🚀 A full-stack software developer with a proven ability to transform abstract ideas 💡 into fully functional web applications. With over 3 years of experience in web development and a strong background in problem-solving competitions, I bring a valuable mix of technical expertise and innovative thinking to every project.
 
 ### Connect With Me:
 
